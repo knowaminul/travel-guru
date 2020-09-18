@@ -18,7 +18,7 @@ const Header = () => {
                     </Form>
                     <Nav className="nav-style">
                         <Nav.Link href="/news">News</Nav.Link>
-                        <Nav.Link href="/hotel">Destination</Nav.Link>
+                        <Nav.Link href="#">Destination</Nav.Link>
                         <Nav.Link href="/blog">Blog</Nav.Link>
                         <Nav.Link href="/contact">Contact</Nav.Link>
                         <Button href="/login" variant="warning">Login</Button>
